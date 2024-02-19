@@ -1,6 +1,6 @@
 <?php
 
-namespace WpMvc\DependentManager;
+namespace WpMVC\DependentManager;
 
 defined( 'ABSPATH' ) || exit;
 
